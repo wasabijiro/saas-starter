@@ -19,7 +19,7 @@
 ## 技術スタック
 
 - **フレームワーク**: [Next.js](https://nextjs.org/)
-- **データベース**: [Postgres](https://www.postgresql.org/)
+- **データベース**: [Supabase](https://supabase.com/)
 - **ORM**: [Drizzle](https://orm.drizzle.team/)
 - **決済**: [Stripe](https://stripe.com/)
 - **UIライブラリ**: [shadcn/ui](https://ui.shadcn.com/)
@@ -108,4 +108,4 @@ Vercelのプロジェクト設定（またはデプロイ中）で、必要な�
 
 - https://achromatic.dev
 - https://shipfa.st
-- https://makerkit.dev 
+- https://makerkit.dev
